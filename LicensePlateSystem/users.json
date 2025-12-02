@@ -1,0 +1,32 @@
+{
+    "admin": {
+        "username": "admin",
+        "password": "ghost",
+        "address": "Miami"
+    },
+    "2": {
+        "username": "john",
+        "password": "pdp",
+        "address": "C1"
+    },
+    "3": {
+        "username": "bob",
+        "password": "bob",
+        "address": "New-York"
+    },
+    "4": {
+        "username": "lalala",
+        "password": "lalala",
+        "address": "lalala"
+    },
+    "5": {
+        "username": "",
+        "password": "",
+        "address": ""
+    },
+    "6": {
+        "username": "jane",
+        "password": "jane",
+        "address": "c1"
+    }
+}
